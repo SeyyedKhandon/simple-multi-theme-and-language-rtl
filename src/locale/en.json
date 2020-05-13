@@ -1,0 +1,8 @@
+{
+  "helloworld": {
+    "main_title": "Welcome to Your Vue.js App",
+    "description": " For a guide and recipes on how to configure / customize this project,<br />\n      check out the",
+    "link_to_doc": "vue-cli documentation",
+    "h3": "Installed CLI Plugins"
+  }
+}

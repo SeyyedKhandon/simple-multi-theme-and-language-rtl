@@ -1,0 +1,11 @@
+@import "theme";
+
+.app-background {
+  background-color: var(--app-background-color);
+}
+.title-color ,h3{
+  color: var(--title-color);
+}
+.content-color {
+  color: var(--content-color);
+}
